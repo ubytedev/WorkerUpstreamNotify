@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Worker Upstream Notify",
+	"Description": "Extending GenericActivityFramework, WorkerUpstreamNotify provides the necessary boilerplate for notifying a crowd/world about any occurrence",
+	"Category": "Generic Activity Framework",
+	"CreatedBy": "Lucas",
+	"CreatedByURL": "https://ubyte.dev",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "WorkerUpstreamNotifyRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "WorkerUpstreamNotifyEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "GenericActivityFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayConcept",
+			"Enabled": true
+		}
+	]
+}
