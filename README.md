@@ -2,4 +2,4 @@
 
 # Worker Upstream Notify
 
-Extending GenericActivityFramework, WorkerUpstreamNotify allows workers to send notifications to its higher initiator
+Extending GenericActivityFramework, WorkerUpstreamNotify introduces functionality for workers to send generic notifications to its higher initiator.
