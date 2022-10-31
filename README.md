@@ -2,4 +2,6 @@
 
 # Worker Upstream Notify
 
-Extending [GenericActivityFramework](https://ubyte.dev/plugins/generic-activity-framework/), WorkerUpstreamNotify introduces boilerplate functionality for workers to send generic notifications to its higher initiator.
+Extending [GenericActivityFramework](https://ubyte.dev/plugins/generic-activity-framework/), WorkerUpstreamNotify introduces boilerplate functionality for workers to send any type of notifications to its higher initiator.
+
+
