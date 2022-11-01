@@ -8,4 +8,4 @@ The emphasis lies in the explicitness of notifying a higher worker about somethi
 
 ## Dependencies
 - [Generic Activity Framework](https://ubyte.dev/plugins/generic-activity-framework)
-- [TypedTagStaticImpl](https://github.com/ubytedev/TypedTagStaticImpl)
+- <a href="https://github.com/ubytedev/GameplayConcept">GameplayConcept</a>
